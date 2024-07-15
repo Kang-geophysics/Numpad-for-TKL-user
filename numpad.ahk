@@ -1,5 +1,6 @@
 ﻿#Requires AutoHotkey >=2.0
 #HotIf GetKeyState("CapsLock", "T")
+    SetNumLockState True
     9::Send "{Numpad9}"
     8::Send "{Numpad8}"
     7::Send "{Numpad7}"
