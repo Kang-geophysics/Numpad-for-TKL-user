@@ -1,8 +1,5 @@
-# Autohokey-for-TKL-user
-This is auto-hotkey script for tenkeyless keyboard user.
-
-## Download Auto Hotkey
-[AutoHotkey](https://www.autohotkey.com/)
+# Numpad-for-TKL-user
+This is numpad script for tenkeyless keyboard user.
 
 ## Key mappings
 - Toggle CapsLock to enable Numpad
@@ -22,12 +19,12 @@ This is auto-hotkey script for tenkeyless keyboard user.
     - `F10` > Numpad *
     - `=` > =
     - `+-(_)` > EN dash
-> [!TIP] Description `+` of `+=` corresponds to hotkey prefix of `Shift` key.
+> [TIP] Description `+` of `+=` corresponds to hotkey prefix of `Shift` key.
 
 ## How to use?
-- Download program `AutoHotkey`.
+- Download program [AutoHotkey](https://www.autohotkey.com/).
 - And download `numpad.ahk` file to your computer.
-- Double click the file and enjoy it.
+- Double-click the file to run it and enjoy.
 
 ## How to run automatically `numpad.ahk` file when the computer starts? 
 - Open `Run command box` using`Win + R`
