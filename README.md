@@ -14,11 +14,10 @@ This is numpad script for tenkeyless keyboard user.
     - `8` > Numpad 8
     - `9` > Numpad 9
     - `-` > Numpad -
-    - `+=(+)` > Numpad +
+    - `+` > Numpad +
     - `F9` > Numpad /
     - `F10` > Numpad *
     - `=` > =
-    - `+-(_)` > EN dash
 > [TIP] Description `+` of `+=` corresponds to hotkey prefix of `Shift` key.
 
 ## How to use?
