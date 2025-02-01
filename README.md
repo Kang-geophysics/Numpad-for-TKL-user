@@ -20,6 +20,8 @@ This is numpad script for tenkeyless keyboard user.
     - `=` > =
 > [TIP] Description `+` of `+=` corresponds to hotkey prefix of `Shift` key.
 
+![image](https://github.com/user-attachments/assets/d0b187fc-5f58-4ac3-8b78-3863ae5a1164)
+
 ## How to use?
 - Download program [AutoHotkey](https://www.autohotkey.com/).
 - And download `numpad.ahk` file to your computer.
